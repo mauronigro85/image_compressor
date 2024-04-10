@@ -3,7 +3,7 @@
 ## Author
 #### Mauro Nigro
 
-## Description:
+## Description
 We built the K-means algorithm and apply it to compress images. The code is written in Python language with no use of scikit-learn library.   
 
 ## Dataset
