@@ -8,7 +8,7 @@ We built the K-means algorithm and apply it to compress images. The code is writ
 
 ## Dataset
 
-* Display the image to compress
+* Display the image to compress (.png or .jpg)
 * Transform the original data to make it adequate for processing
 * Construction of the K-means algorithm in four steps:
   1) Random initialization of K centroids (representing the K colors)
