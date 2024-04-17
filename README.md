@@ -15,6 +15,7 @@ We built the K-means algorithm and apply it to compress images. The code is writ
   2) Associate each register/pixel with the closest centroid
   3) Actualization of centroids
   4) Iteration until convergence is reached
-* Construction of the compressed image with K colors 
+* Construction of compressed images with several K colors
+* Compute the size of the compressed image 
 
 
