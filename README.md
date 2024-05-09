@@ -4,7 +4,9 @@
 #### Mauro Nigro
 
 ## Description
-We built the K-means algorithm and apply it to compress images. The code is written in Python language with no use of scikit-learn library.   
+We built several image_compressor algorithms. The code is written in Python language
+* Particular implementaiton of K-means algorithm with basic sintaxis:
+* Implementation of K-means algorithm with Scikit-Learn library:
 
 ## Dataset
 
