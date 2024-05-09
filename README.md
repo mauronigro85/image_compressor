@@ -20,6 +20,7 @@ We built several image_compressor algorithms. The code is written in Python lang
 * Construction of compressed images for several K colors
 * Compute the size of the compressed image
 ## Implementation of K-means algorithm with Scikit-Learn library
+[(Notebook)](https://github.com/mauronigro85/image_compressor/blob/main/kmeans_image_compressor_sklearn.ipynb)
 * Display the image to compress (.png or .jpg)
 * Transform the original data to make it adequate for processing
 * Compression with K-means algorithm with Scikit-Learn library
