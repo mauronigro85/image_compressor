@@ -8,7 +8,7 @@ We built several image_compressor algorithms. The code is written in Python lang
 
 # Dataset
 
-## Particular implementation of K-means algorithm with basic sintaxis
+## Particular implementation of K-means algorithm with basic syntax
 * Display the image to compress (.png or .jpg)
 * Transform the original data to make it adequate for processing
 * Construction of the K-means algorithm in four steps:
