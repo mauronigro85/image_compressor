@@ -4,12 +4,11 @@
 #### Mauro Nigro
 
 ## Description
-We built several image_compressor algorithms. The code is written in Python language
-* Particular implementaiton of K-means algorithm with basic sintaxis:
-* Implementation of K-means algorithm with Scikit-Learn library:
+We built several image_compressor algorithms. The code is written in Python language.
 
 ## Dataset
 
+## Particular implementaiton of K-means algorithm with basic sintaxis:
 * Display the image to compress (.png or .jpg)
 * Transform the original data to make it adequate for processing
 * Construction of the K-means algorithm in four steps:
@@ -18,6 +17,7 @@ We built several image_compressor algorithms. The code is written in Python lang
   3) Actualization of centroids
   4) Iteration until convergence is reached
 * Construction of compressed images with several K colors
-* Compute the size of the compressed image 
+* Compute the size of the compressed image
+## Implementation of K-means algorithm with Scikit-Learn library:
 
 
